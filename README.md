@@ -30,7 +30,7 @@ Step Two with image:  <br/>
 <br />
 
 
-### Project Referencee *** Insert Link
+### [Project Reference: So you want to be a SOC Analyst?](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-part)
 
 
 <!--
